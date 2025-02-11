@@ -1,13 +1,11 @@
  #include <iostream>
+  using namespace std;
  int main()
  {
-<<<<<<< HEAD
 
- std::cout<< "hello from branch update";
-=======
  int k;
- cin >> k;
-  cout >> k;
->>>>>>> update
+  cin >>k;
+  cout << k;
+
 
  }
