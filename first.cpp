@@ -3,6 +3,7 @@
  {
  int k;
  cin >> k;
-  cout >> k;
+  cout <<k;
+  cout << "hello";
 
  }
