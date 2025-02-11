@@ -1,5 +1,8 @@
  #include <iostream>
  int main()
  {
- std::cout<< "hello from bracnch update";
+ int k;
+ cin >> k;
+  cout >> k;
+
  }
